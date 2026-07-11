@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 ac80b224cb1571def73211f3bdeb358339b591c8 Gogs <gogs@fake.local> 1782840133 +0500	clone: from https://github.com/kinnector/kinnector-core.git
+ac80b224cb1571def73211f3bdeb358339b591c8 1ada1907f48e0861a0c429f7e41432bde9a24c28 Gogs <gogs@fake.local> 1783113225 +0500	commit: update README with low-level drivers and IPC details
+1ada1907f48e0861a0c429f7e41432bde9a24c28 530a8c1d8a31ba06903b866f65e6d37c25b2b061 Gogs <gogs@fake.local> 1783127001 +0500	commit: chore: update source, docs and build configs
+530a8c1d8a31ba06903b866f65e6d37c25b2b061 3f7c5cb6b3c60069372e0c414ef5a77505a30e85 Gogs <gogs@fake.local> 1783200438 +0500	commit: docs: update README with IPC architecture, control flows, and CLI options
+3f7c5cb6b3c60069372e0c414ef5a77505a30e85 d2dd041d6170743fb597f17f0eea92845ac5baa0 Gogs <gogs@fake.local> 1783299354 +0500	commit: Implement decrypted SSH TTY/PTY monitor and listen tracepoint syscall telemetry
+d2dd041d6170743fb597f17f0eea92845ac5baa0 6fb939dba9803c39e96dbda4f48ea55615c17822 goriyasno <kinnector@gmail.com> 1783299354 +0500	filter-branch: rewrite
+6fb939dba9803c39e96dbda4f48ea55615c17822 b94932f815c18aac58c9a69d0ca0fa23e651dc60 goriyasno <kinnector@gmail.com> 1783309838 +0500	commit: Convert library target to STATIC to support Warden static linking
+b94932f815c18aac58c9a69d0ca0fa23e651dc60 e016310b6194938f31ff3239e5356114653c24ae goriyasno <kinnector@gmail.com> 1783352398 +0500	commit: feat(core): enhance eBPF loaders and FFI bindings
+e016310b6194938f31ff3239e5356114653c24ae 653f9df52d246bfc49038205ef4a6c211a64035c goriyasno <kinnector@gmail.com> 1783354270 +0500	commit: feat(core): support denylisting executables at BPF LSM layer (trust level 0)
+653f9df52d246bfc49038205ef4a6c211a64035c 502cf9de4acf609388d0e8e58cb0cfd8eb1aae37 goriyasno <kinnector@gmail.com> 1783378505 +0500	commit: Normalize kinnector brand name spelling and bolding in README
+502cf9de4acf609388d0e8e58cb0cfd8eb1aae37 d95be02f672b8955b131bdfefbfbe23112d36e7e goriyasno <kinnector@gmail.com> 1783528822 +0500	commit: Update README.md to align with the documentation constitution
+d95be02f672b8955b131bdfefbfbe23112d36e7e 5dad6e253525e58e06807413ae6c8d631ab42d0e goriyasno <kinnector@gmail.com> 1783567953 +0500	pull: Fast-forward
